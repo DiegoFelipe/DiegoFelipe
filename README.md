@@ -49,7 +49,9 @@
 
 <br/>
 
-- 📌 [Boosting your React component with font-awesome 5 (SVG & JS Framework)](https://medium.com/@diegofelipe.14/boosting-your-react-component-with-font-awesome-5-svg-js-framework-300e51853685)<br />
+- 📌 [Dependability engineering in practise!](https://medium.com/@diegofelipe.14/boosting-your-react-component-with-font-awesome-5-svg-js-framework-300e51853685)<br />
+- 📌 [Boosting your React component with font-awesome 5 (SVG & JS Framework)](https://www.linkedin.com/feed/update/urn:li:activity:6745056661553090560)<br />
+
 
 <br/>
 
