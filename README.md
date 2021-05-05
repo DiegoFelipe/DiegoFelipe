@@ -36,6 +36,7 @@
 **Business Tools**
 
 <code><img height="32" src="https://cdn.worldvectorlogo.com/logos/jira-1.svg" alt="Jira"/></code>
+<code><img height="32" src="https://cdn.iconscout.com/icon/free/png-64/azure-devops-3521296-2944715.png" alt="Azure DevOps"/></code>
 <code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/trello-6-569395.png" alt="Trello"/></code>
 
 <br/>
