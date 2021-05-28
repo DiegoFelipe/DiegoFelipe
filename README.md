@@ -64,16 +64,7 @@
 
 
 <br/>
-
-## Coding Activity
-
-<br/>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=DiegoFelipe&show_icons=true&theme=dracula" alt="DiegoFelipe's github stats" />
-</p>
-
-### Analytics
+## Analytics
 
 ![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=DiegoFelipe)
 
