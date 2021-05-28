@@ -85,11 +85,10 @@
 </p>
 
 
-<img width="100%" src="/DiegoFelipe/DiegoFelipe/raw/main/profile-summary-card-output/github/0-profile-details.svg" style="max-width:100%;">
-<!-- <p align="center">
+ <p align="left">
   <img width="36%" src="profile-summary-card-output/github/1-repos-per-language.svg" />
   <img width="36%" src="profile-summary-card-output/github/2-most-commit-language.svg" />
   <img width="24.3%" src="profile-summary-card-output/github/3-stats.svg" />
-</p> -->
+</p>
 
 <br/>
