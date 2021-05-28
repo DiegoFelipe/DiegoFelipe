@@ -73,7 +73,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=DiegoFelipe&show_icons=true&theme=dracula" alt="DiegoFelipe's github stats" />
 </p>
 
-### Analytics ⚙️
+### Analytics
 
 ![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=DiegoFelipe)
 
@@ -83,5 +83,13 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoFelipe&layout=compact&langs_count=8"/>
 </a>
 </p>
+
+<img width="100%" src="profile-summary-card-output/github/0-profile-details.svg" />
+
+<!-- <p align="center">
+  <img width="36%" src="profile-summary-card-output/github/1-repos-per-language.svg" />
+  <img width="36%" src="profile-summary-card-output/github/2-most-commit-language.svg" />
+  <img width="24.3%" src="profile-summary-card-output/github/3-stats.svg" />
+</p> -->
 
 <br/>
