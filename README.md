@@ -59,8 +59,8 @@
 
 <br/>
 
-- 📌 [Dependability engineering in practise!](https://medium.com/@diegofelipe.14/boosting-your-react-component-with-font-awesome-5-svg-js-framework-300e51853685)<br />
-- 📌 [Boosting your React component with font-awesome 5 (SVG & JS Framework)](https://www.linkedin.com/feed/update/urn:li:activity:6745056661553090560)<br />
+- 📌 [Dependability engineering in practise!](https://www.linkedin.com/feed/update/urn:li:activity:6745056661553090560)<br />
+- 📌 [Boosting your React component with font-awesome 5 (SVG & JS Framework)](https://medium.com/@diegofelipe.14/boosting-your-react-component-with-font-awesome-5-svg-js-framework-300e51853685)<br />
 
 
 <br/>
@@ -69,7 +69,7 @@
 
 <br/>
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=DiegoFelipe&show_icons=true&theme=dracula" alt="DiegoFelipe's github stats" />
 </p>
 
