@@ -29,6 +29,7 @@
 
 <code><img height="32" src="https://dashboard.snapcraft.io/site_media/appmedia/2018/04/twitter-card-icon.png" alt="Insomnia"/></code>
 <code><img height="32" src="https://user-images.githubusercontent.com/2676579/34940598-17cc20f0-f9be-11e7-8c6d-f0190d502d64.png" alt="Postman"/></code>
+<code><img height="32" src="https://static-00.iconduck.com/assets.00/browserstack-icon-512x511-izit1fzc.png" alt="Browser Stack"/></code>
 
 **DevOps**
 
