@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on X-Team as Software Engineer
 - 🌱 I’m currently learning GO
 - 👯 I’m looking to collaborate on some cool open source project
-- 🤔 I’m looking for help with how to grow in my carrer to became a tech lead
+- 🤔 My goal in my carrer is to became a tech lead
 
 ## My Development Stack
 
