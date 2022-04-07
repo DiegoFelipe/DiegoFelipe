@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on X-Team as Software Engineer
+- 🔭 I’m currently working on Upstack as Software Engineer
 - 🌱 I’m currently learning GO
 - 👯 I’m looking to collaborate on some cool open source project
 - 🤔 My goal in my carrer is to became a tech lead
@@ -9,6 +9,8 @@
 
 **Application and Data**
 
+
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png" alt="Javascript"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" alt="PHP"/></code>
 <code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" alt="c"/></code>
