@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on Upstack as Software Engineer
-- 🌱 I’m currently learning GO
+- 🌱 I’m currently Developing an awesome side project writen in GO
 - 👯 I’m looking to collaborate on some cool open source project
 - 🤔 My goal in my carrer is to became a tech lead
 
