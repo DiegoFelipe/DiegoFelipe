@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on Upstack as Software Engineer
-- 🌱 I’m currently Developing an awesome side project writen in GO
+- 🌱 I’m currently Developing an awesome side project writen in Nextjs
 - 👯 I’m looking to collaborate on some cool open source project
 - 🤔 My goal in my carrer is to became a tech lead
 
@@ -9,15 +9,15 @@
 
 **Application and Data**
 
-
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" alt="PHP"/></code>
-<code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" alt="c"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Nodejs"/></code>
+<code><img height="32" src="https://cdn.icon-icons.com/icons2/3392/PNG/512/nextjs_icon_213852.png" alt="Nextjs"/></code>
 <code><img height="32" src="https://cdn.iconscout.com/icon/free/png-64/laravel-2752139-2284956.png" alt="Laravel"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap"/></code>
+<code><img height="32" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_tailwind_icon_130128.png" alt="Tailwind"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React"/></code>
 <code><img height="32" src="https://cdn.iconscout.com/icon/free/png-64/react-native-555397.png" alt="React Native"/></code>
 <code><img height="32" src="https://cdn.iconscout.com/icon/free/png-64/vuejs-3-1175070.png" alt="Vuejs"/></code>
@@ -26,14 +26,17 @@
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="PostegreSQL"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" alt="MongoDB"/></code>
 
-**Utilities**
+**Test**
 
-<code><img height="32" src="https://dashboard.snapcraft.io/site_media/appmedia/2018/04/twitter-card-icon.png" alt="Insomnia"/></code>
-<code><img height="32" src="https://user-images.githubusercontent.com/2676579/34940598-17cc20f0-f9be-11e7-8c6d-f0190d502d64.png" alt="Postman"/></code>
+
+<code><img height="32" src="https://user-images.githubusercontent.com/11247099/145112184-a9ff6727-661c-439d-9ada-963124a281f7.png" alt="ViTest"/></code>
+<code><img height="32" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_jest_icon_130514.png" alt="Jest"/></code>
+<code><img height="32" src="https://testing-library.com/img/octopus-64x64.png" alt="React Testing Library"/></code>
 <code><img height="32" src="https://static-00.iconduck.com/assets.00/browserstack-icon-512x511-izit1fzc.png" alt="Browser Stack"/></code>
 
 **DevOps**
 
+<code><img height="32" src="https://cdn.icon-icons.com/icons2/2248/PNG/512/aws_icon_137928.png" alt="AWS"/></code>
 <code><img height="32" src="https://cdn3.iconfinder.com/data/icons/inficons/512/github.png" alt="GitHub"/></code>
 <code><img height="32" src="https://cdn.iconscout.com/icon/free/png-256/travis-1-283376.png" alt="Travis CI"/></code>
 <code><img height="32" src="https://www.justsoftware.com.br/assets/images/GitLab_Logo.svg.png" alt="Gitlab"/></code>
@@ -53,7 +56,10 @@
 <code><img height="32" src="https://docusaurus.io/img/docusaurus.png" alt="Docusaurus"/></code>
 <code><img height="32" src="https://vuepress.vuejs.org/hero.png" alt="Vuepress"/></code>
 
+**Utilities**
 
+<code><img height="32" src="https://dashboard.snapcraft.io/site_media/appmedia/2018/04/twitter-card-icon.png" alt="Insomnia"/></code>
+<code><img height="32" src="https://user-images.githubusercontent.com/2676579/34940598-17cc20f0-f9be-11e7-8c6d-f0190d502d64.png" alt="Postman"/></code>
 
 
 <br/>
