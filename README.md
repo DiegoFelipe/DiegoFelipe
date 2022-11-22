@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋 It's Diego!
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diego-felipe-s-51189147/?locale=en_US)](https://www.linkedin.com/in/diego-felipe-s-51189147/?locale=en_US)
 
 - 🔭 I’m currently working on Upstack as Software Engineer
 - 🌱 I’m currently Developing an awesome side project writen in Nextjs
@@ -64,13 +66,17 @@
 
 <br/>
 
-
 ## My latest posts
+
+- 📝 [Dependability engineering in practise!](https://www.linkedin.com/feed/update/urn:li:activity:6745056661553090560)<br />
+- 📝 [Boosting your React component with font-awesome 5 (SVG & JS Framework)](https://medium.com/@diegofelipe.14/boosting-your-react-component-with-font-awesome-5-svg-js-framework-300e51853685)<br />
+- 📝 [Pre Rendering; ISG, SSG, SSG](https://www.linkedin.com/feed/update/urn:li:activity:6968942617719922688/)<br />
 
 <br/>
 
-- 📌 [Dependability engineering in practise!](https://www.linkedin.com/feed/update/urn:li:activity:6745056661553090560)<br />
-- 📌 [Boosting your React component with font-awesome 5 (SVG & JS Framework)](https://medium.com/@diegofelipe.14/boosting-your-react-component-with-font-awesome-5-svg-js-framework-300e51853685)<br />
+## 🏆 Github Achievements
+
+<p align="left"> <a href="https://github.com/DiegoFelipe"><img src="https://github-profile-trophy.vercel.app/?username=DiegoFelipe&margin-w=5&theme=radical" alt="Diego Felipe" /></a>
 
 
 <br/>
