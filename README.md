@@ -3,7 +3,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diego-felipe-s-51189147/?locale=en_US)](https://www.linkedin.com/in/diego-felipe-s-51189147/?locale=en_US)
 
 - 🔭 I’m currently working on Upstack as Software Engineer
-- 🌱 I’m currently Developing an awesome side project writen in Nextjs
+- 🌱 I’m currently Developing an awesome side project writen in Nextjs / Node (Adonis) / Go (Gin)
 - 👯 I’m looking to collaborate on some cool open source project
 - 🤔 My goal in my carrer is to became a tech lead
 
