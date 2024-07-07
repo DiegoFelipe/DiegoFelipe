@@ -2,7 +2,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diego-felipe-s-51189147/?locale=en_US)](https://www.linkedin.com/in/diego-felipe-s-51189147/?locale=en_US)
 
-- ⚙️ I’m currently working at MongoDB as Consulting Engineer
+- ⚙️ I’m currently working at Instituto FIT as Senior Software Engineer
 - 🖥️ I’m currently developing an awesome side project writen in Nextjs / Node (Adonis) / Go (Gin)
 - 🤔 My goal in my carrer is to became a tech lead
 
