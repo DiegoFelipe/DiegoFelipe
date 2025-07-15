@@ -1,73 +1,13 @@
 ### Hi there 👋 It's Diego!
-
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diego-felipe-s-51189147/?locale=en_US)](https://www.linkedin.com/in/diego-felipe-s-51189147/?locale=en_US)
+
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,mongodb,postgresql,nodejs,tailwind,jest)](https://skillicons.dev)
+
+
 
 - ⚙️ I’m currently working at Instituto FIT as Senior Software Engineer
 - 🖥️ I’m currently developing an awesome side project writen in Nextjs / Node (Adonis) / Go (Gin)
 - 🤔 My goal in my carrer is to became a tech lead
-
-## My Development Stack
-
-**Application and Data**
-
-<code><img height="32" src="https://img.icons8.com/color/512/mongodb.png" alt="MongoDB"/></code>
-<code><img height="32" src="https://static-00.iconduck.com/assets.00/next-js-icon-2048x2048-5dqjgeku.png" alt="Nextjs"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React"/></code>
-<code><img height="32" src="https://avatars.githubusercontent.com/u/139895814?s=200&v=4" alt="Shadcn"/></code>
-<code><img height="32" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_tailwind_icon_130128.png" alt="Tailwind"/></code>
-<code><img height="32" src="https://cdn.icon-icons.com/icons2/2148/PNG/512/prisma_icon_132076.png" alt="PrismaDB"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" alt="PHP"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Nodejs"/></code>
-<code><img height="32" src="https://cdn.iconscout.com/icon/free/png-64/laravel-2752139-2284956.png" alt="Laravel"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap"/></code>
-<code><img height="32" src="https://cdn.iconscout.com/icon/free/png-64/react-native-555397.png" alt="React Native"/></code>
-<code><img height="32" src="https://cdn.iconscout.com/icon/free/png-64/vuejs-3-1175070.png" alt="Vuejs"/></code>
-<code><img height="32" src="https://cdn.iconscout.com/icon/free/png-256/graphql-3521468-2944912.png" alt="GraphQL"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="PostegreSQL"/></code>
-
-
-
-**Test**
-
-
-<code><img height="32" src="https://user-images.githubusercontent.com/11247099/145112184-a9ff6727-661c-439d-9ada-963124a281f7.png" alt="ViTest"/></code>
-<code><img height="32" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_jest_icon_130514.png" alt="Jest"/></code>
-<code><img height="32" src="https://testing-library.com/img/octopus-64x64.png" alt="React Testing Library"/></code>
-<code><img height="32" src="https://static-00.iconduck.com/assets.00/browserstack-icon-512x511-izit1fzc.png" alt="Browser Stack"/></code>
-
-**DevOps**
-
-<code><img height="32" src="https://cdn.icon-icons.com/icons2/2248/PNG/512/aws_icon_137928.png" alt="AWS"/></code>
-<code><img height="32" src="https://cdn3.iconfinder.com/data/icons/inficons/512/github.png" alt="GitHub"/></code>
-<code><img height="32" src="https://cdn.iconscout.com/icon/free/png-256/travis-1-283376.png" alt="Travis CI"/></code>
-<code><img height="32" src="https://www.justsoftware.com.br/assets/images/GitLab_Logo.svg.png" alt="Gitlab"/></code>
-<code><img height="32" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/44_Bitbucket_logo_logos-512.png" alt="Bitbucket"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="Docker"/></code>
-
-**Business Tools**
-
-<code><img height="32" src="https://cdn.worldvectorlogo.com/logos/jira-1.svg" alt="Jira"/></code>
-<code><img height="32" src="https://cdn.iconscout.com/icon/free/png-64/azure-devops-3521296-2944715.png" alt="Azure DevOps"/></code>
-<code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/trello-6-569395.png" alt="Trello"/></code>
-
-**Documentation**
-
-<code><img height="32" src="https://staruml.io/image/staruml_logo.png" alt="StarUML"/></code>
-<code><img height="32" src="https://docusaurus.io/img/docusaurus.png" alt="Docusaurus"/></code>
-<code><img height="32" src="https://vuepress.vuejs.org/hero.png" alt="Vuepress"/></code>
-
-**Utilities**
-
-<code><img height="32" src="https://dashboard.snapcraft.io/site_media/appmedia/2018/04/twitter-card-icon.png" alt="Insomnia"/></code>
-<code><img height="32" src="https://user-images.githubusercontent.com/2676579/34940598-17cc20f0-f9be-11e7-8c6d-f0190d502d64.png" alt="Postman"/></code>
-
-
-<br/>
 
 ## My latest posts
 
