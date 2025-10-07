@@ -1,13 +1,13 @@
 ### Hi there 👋 It's Diego!
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diego-felipe-s-51189147/?locale=en_US)](https://www.linkedin.com/in/diego-felipe-s-51189147/?locale=en_US)
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,mongodb,postgresql,nodejs,tailwind,jest)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,nestjs,expressjs,react,nextjs,mongodb,postgresql,tailwind,jest)](https://skillicons.dev)
 
 
 
 - ⚙️ I’m currently working at Instituto FIT as Senior Software Engineer
-- 🖥️ I’m currently developing an awesome side project writen in Nextjs / Node (Adonis) / Go (Gin)
-- 🤔 My goal in my carrer is to became a tech lead
+- 🖥️ I’m currently developing an awesome side project writen in Nextjs / Nestjs / MongoDB
+- ✅ My goal in my carrer is to became a tech lead
 
 ## My latest posts
 
