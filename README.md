@@ -5,7 +5,6 @@
 
 
 
-- ⚙️ I’m currently working at Instituto FIT as Senior Software Engineer
 - 🖥️ I’m currently developing an awesome side project writen in Nextjs / Nestjs / MongoDB
 - ✅ My goal in my carrer is to became a tech lead
 
