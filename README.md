@@ -3,8 +3,6 @@
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,nestjs,expressjs,react,nextjs,mongodb,postgresql,tailwind,jest)](https://skillicons.dev)
 
-
-
 - 🖥️ I’m currently developing an awesome side project writen in Nextjs / Nestjs / MongoDB
 - ✅ My goal in my carrer is to became a tech lead
 
