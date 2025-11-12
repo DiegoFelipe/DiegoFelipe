@@ -1,4 +1,6 @@
-### Hi there 👋 It's Diego!
+<!-- Animated Header -->
+<img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&size=35&duration=8000&color=00FF88&vCenter=true&width=500&height=70&lines=👋+Hi,+I'm+Diego+Felipe" alt="Typing SVG" />
+
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diego-felipe-s-51189147/?locale=en_US)](https://www.linkedin.com/in/diego-felipe-s-51189147/?locale=en_US)
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,nestjs,expressjs,react,nextjs,mongodb,postgresql,tailwind,jest)](https://skillicons.dev)
@@ -22,8 +24,6 @@
 <br/>
 
 ## Analytics
-
-![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=DiegoFelipe)
 
 <p align="left">
 <a href="https://github.com/GuillaumeFalourd">
